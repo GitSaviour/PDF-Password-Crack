@@ -5,9 +5,9 @@
 ---
 
 ## Description
-This Python script is designed to assist in decrypting and recovering the password for encrypted PDF files. There are two approaches beind used,
+This Python script is designed to assist in decrypting and recovering the password for encrypted PDF files. There are two approaches being used,
 a brute force approach to systematically try different combinations of characters until the correct password is found and a dictionary read to read all possible passwords from a dictionary.  
-This can be useful if you have forgotten the password to a PDF file that you encrypted yourself and need to regain access to its contents.
+This can be useful if you have forgotten the password to a PDF file that is encrypted and you are needed to regain access to its contents.
 
 ## Features (`BruteForce`)
 - Brute force approach to password recovery
